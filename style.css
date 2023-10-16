@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+    background: linear-gradient(172deg,#f67280 0%, #355c7d 20%);
+    
+}
+.nav-link:hover{
+    scale: 1.2;
+   
+} 
+#award .nav-item {
+    list-style-type:circle;
+    line-height: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+#career p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    line-height: 40px;
+}
+#about p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    line-height: 40px;
+    
+}
+#about h3{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 2px 2px 5px rgb(30, 245, 30);
+}
+#career h3{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 2px 2px 5px rgb(30, 245, 30);
+}
+#award h3{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 2px 2px 5px rgb(30, 245, 30);
+}
+#book h3{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 2px 2px 5px rgb(30, 245, 30);
+}
+#book h3{
+    text-shadow: 2px 2px 5px rgb(30, 245, 30);
+}
+.rou{
+    border-radius: 15px 50px;
+    box-shadow: 10px 10px 5px lightblue;
+}
